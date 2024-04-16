@@ -121,7 +121,7 @@ if( isset($_POST["cari"]) ) {
         </div>
         <br><br><br>
         <footer>
-            <p>Copyright &copy; 2021 - by ISCI Developer. All Right Reserved</p>
+            <p>Copyright &copy; 2024 - by ISCI Developer. All Right Reserved</p>
         </footer>
         <br><br><br><br>
     </center>
